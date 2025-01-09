@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I’m a BSc Candidate in Computer Science at Ho Chi Minh University of Technology, Vietnam National University, Ho Chi Minh City.<br><br>I’m passionate about Cybersecurity and Security Operations Center (SOC), focusing on threat detection, incident response, and network security. I also enjoy learning about system architecture, networking, and software development, with experience in C++, Python, and Java.<br><br>I’m eager to grow, collaborate, and contribute to open-source projects. Feel free to check out my work and connect!
+Hi there! 👋<br>I’m a BSc Candidate in Computer Science at Ho Chi Minh University of Technology, Vietnam National University, Ho Chi Minh City.<br><br>I’m passionate about Cybersecurity and Security Operations Center (SOC), focusing on threat detection, incident response, and network security. I also enjoy learning about system architecture, networking, and software development, with experience in C++, Python, and Java.<br><br>I’m eager to grow, collaborate, and contribute to open-source projects. Feel free to check out my work and connect!|
 
 
 ## 🌐 Socials:
